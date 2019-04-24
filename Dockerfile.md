@@ -12,8 +12,8 @@ This repository contains the Dockerfile for building a Docker image for running 
 
 2. Download from public [Docker Registry](https://index.docker.io/):
 
-		docker pull aerospike/aerospike-server
+		docker pull tetv/aerospike-server
 
 	_Alternatively, you can build an image from Dockerfile:_
    
-		docker build -t="aerospike/aerospike-tools" github.com/aerospike/aerospike-tools.docker
+		docker build -t="tetv/aerospike-tools" github.com/tetv/aerospike-tools.docker
